@@ -4,10 +4,10 @@
 ### 1. Clone the Repository  
 ```bash
 git clone https://github.com/its-paras-gill/ai-travel-assistant.git
-cd AiTravelAssistant
+cd ai-travel-assistant
 ```
 
-### 2. Create config.py file and add API keys
+### 2. Create config.py File 
 ```bash
 nano config.py
 ```
